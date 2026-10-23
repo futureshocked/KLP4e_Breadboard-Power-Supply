@@ -3,19 +3,19 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1"
+      "Version": "10.0.7-10.0.7~ubuntu24.04.1"
     },
-    "CreationDate": "2024-03-27T16:26:59+11:00"
+    "CreationDate": "2026-10-24T09:31:52+11:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Breadboard Power Supply",
       "GUID": "42726561-6462-46f6-9172-6420506f7765",
-      "Revision": "rev?"
+      "Revision": "2"
     },
     "Size": {
-      "X": 31.088,
-      "Y": 52.932
+      "X": 28.802,
+      "Y": 52.424
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -28,8 +28,8 @@
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
-      "TrackToRegion": 0.5,
-      "RegionToRegion": 0.5
+      "TrackToRegion": 0.508,
+      "RegionToRegion": 0.508
     }
   ],
   "FilesAttributes": [
@@ -90,6 +90,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -112,6 +113,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Green",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
